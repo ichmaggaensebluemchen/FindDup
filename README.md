@@ -1,0 +1,2 @@
+# FindDup
+Prüfungsaufgabe c-Programmierung
